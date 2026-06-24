@@ -2,38 +2,11 @@
 
 ### CSA & CAD Certified ServiceNow Developer | B.Tech CS @ VBIT
 
-- 🎓 B.Tech CSBS, VBIT
-- 🏅 ServiceNow CSA & CAD Certified
-- 💡 Bridging the gap between web development, business strategy, and digital marketing
-- 🚀 Like the Dev & Marketing combo
-
 ---
 
 ## 🚀 About Me
 I am a final-year undergraduate student seeking internship opportunities where I can apply my skills in both web development and digital marketing. Having worked on diverse projects across these domains, I have developed a strong blend of technical and business-oriented problem-solving abilities. These experiences have strengthened my confidence and prepared me to contribute effectively while continuing to learn and grow in my professional journey.
 ---
-
-## 🌐 Connect With Me
-
-<table>
-<tr>
-<td align="center">
-
-<a href="mailto:mmad46052@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/madhava2128">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://madhavaportfolio-seven.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 ## 💻 Technical Skills
 
@@ -116,6 +89,28 @@ I am a final-year undergraduate student seeking internship opportunities where I
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+## 🌐 Connect With Me
+
+<table>
+<tr>
+<td align="center">
+
+<a href="mailto:mmad46052@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/madhava2128">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://madhavaportfolio-seven.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </td>
 </tr>
