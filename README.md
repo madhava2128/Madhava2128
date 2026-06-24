@@ -2,21 +2,15 @@
 
 ### CSA & CAD Certified ServiceNow Developer | B.Tech CS @ VBIT
 
-Computer Science & Business Systems student passionate about ServiceNow development, product management, digital marketing, and building technology-driven solutions. Experienced in developing scalable applications, automating workflows, and creating impactful digital products.
-
 - 🎓 B.Tech CSBS, VBIT
 - 🏅 ServiceNow CSA & CAD Certified
-- 💡 Interested in ServiceNow, Product Management, AI, and Digital Marketing
+- 💡 Bridging the gap between web development, business strategy, and digital marketing
 - 🚀 Like the Dev & Marketing combo
 
 ---
 
 ## 🚀 About Me
-
-```md
-I enjoy combining technology, business, and user experience to create solutions that make a real impact. Whether I'm building applications on the ServiceNow platform, automating workflows, working on digital marketing strategies, or developing full-stack projects, I enjoy turning ideas into practical products that solve real-world problems and deliver value to users.
-```
-
+I am a final-year undergraduate student seeking internship opportunities where I can apply my skills in both web development and digital marketing. Having worked on diverse projects across these domains, I have developed a strong blend of technical and business-oriented problem-solving abilities. These experiences have strengthened my confidence and prepared me to contribute effectively while continuing to learn and grow in my professional journey.
 ---
 
 ## 🌐 Connect With Me
