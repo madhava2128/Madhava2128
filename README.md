@@ -1,21 +1,21 @@
 # Hi, I'm Madhava 👋
 
-### CSA & CAD Certified ServiceNow Developer | Product Thinking + Digital Marketing | B.Tech CS @ VBIT
+### CSA & CAD Certified ServiceNow Developer | B.Tech CS @ VBIT
 
-I am a Computer Science student passionate about building scalable applications, automating business processes, and solving real-world problems through technology. My interests span ServiceNow development, product management, digital marketing, and full-stack application development.
+Computer Science & Business Systems student passionate about ServiceNow development, product management, digital marketing, and building technology-driven solutions. Experienced in developing scalable applications, automating workflows, and creating impactful digital products.
 
-- 🎓 B.Tech in Computer Science & Business Systems (CSBS) at VBIT
-- 🏅 ServiceNow Certified System Administrator (CSA)
-- 🏅 ServiceNow Certified Application Developer (CAD)
-- 💡 Interested in ServiceNow Development, Product Management, AI Solutions, and Digital Marketing
-- 🚀 Always exploring new technologies and building impactful projects
-- 📧 Reach me at: **mmad46052@gmail.com**
+- 🎓 B.Tech CSBS, VBIT
+- 🏅 ServiceNow CSA & CAD Certified
+- 💡 Interested in ServiceNow, Product Management, AI, and Digital Marketing
+- 🚀 Like the Dev & Marketing combo
 
 ---
 
 ## 🚀 About Me
 
-I enjoy working at the intersection of technology, business, and user experience. Whether it's developing applications on the ServiceNow platform, creating automation workflows, optimizing digital marketing campaigns, or building full-stack projects, I focus on delivering practical and user-centric solutions.
+```md
+I enjoy combining technology, business, and user experience to create solutions that make a real impact. Whether I'm building applications on the ServiceNow platform, automating workflows, working on digital marketing strategies, or developing full-stack projects, I enjoy turning ideas into practical products that solve real-world problems and deliver value to users.
+```
 
 ---
 
@@ -35,10 +35,6 @@ I enjoy working at the intersection of technology, business, and user experience
 
 <a href="https://madhavaportfolio-seven.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -141,39 +137,34 @@ I enjoy working at the intersection of technology, business, and user experience
 ---
 
 ## 📂 Featured Projects
-
 ### 🚀 NEP 2020 Timetable Optimization System
-> Add project description here.
 
-**Tech Stack:** React, Flask, Python, SQLite
+Automates university timetable generation using constraint-based scheduling while ensuring compliance with NEP 2020 guidelines.
 
----
-
-### 📸 SnapVoyage
-> Add project description here.
-
-**Tech Stack:** Streamlit, Python, Gemini API
+**Tech Stack:** React, TypeScript, Flask, Python, SQLite
+**Repository:** https://github.com/madhava2128/Nep-Timetable-Optimization
 
 ---
 
-### ♻️ Smart Waste Management Platform
-> Add project description here.
+### 📸 SnapVoyage (Gemini Landmark Description App)
 
-**Tech Stack:** React, Flask, Python
+An AI-powered travel companion that identifies landmarks from images and provides detailed insights, location data, and multilingual descriptions.
 
----
+**Tech Stack:** Python, Streamlit, Gemini API
+**Repository:** https://github.com/NemetronStrike/Landmark-Description-App
 
-### 💰 Budget Tracker
-> Add project description here.
-
-**Tech Stack:** ServiceNow / Web Technologies
 
 ---
 
 ### 🌾 AI-Powered Farmer Assistant
-> Add project description here.
+
+An intelligent agriculture solution that helps farmers identify crop diseases and pests using AI-driven image analysis.
 
 **Tech Stack:** Flutter, FastAPI, PyTorch
+**Links:** https://github.com/madhava2128/Agriai
+
+---
+
 
 
 ---
