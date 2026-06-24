@@ -193,12 +193,31 @@ I enjoy working at the intersection of technology, business, and user experience
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn: Add Your LinkedIn URL
-- Portfolio: Add Your Portfolio URL
-- GitHub: Add Your GitHub URL
-- Email: mmad46052@gmail.com
+<table>
+<tr>
+<td align="center">
+
+<a href="mailto:mmad46052@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/madhava2128">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://madhavaportfolio-seven.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
