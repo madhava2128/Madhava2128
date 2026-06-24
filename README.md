@@ -20,7 +20,6 @@ I enjoy working at the intersection of technology, business, and user experience
 ---
 
 ## 💻 Technical Skills
-## 💻 Tech Stack
 
 <table>
 <tr>
