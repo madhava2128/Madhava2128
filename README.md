@@ -19,6 +19,32 @@ I enjoy working at the intersection of technology, business, and user experience
 
 ---
 
+## 🌐 Connect With Me
+
+<table>
+<tr>
+<td align="center">
+
+<a href="mailto:mmad46052@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/madhava2128">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://madhavaportfolio-seven.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
 ## 💻 Technical Skills
 
 <table>
@@ -149,75 +175,6 @@ I enjoy working at the intersection of technology, business, and user experience
 
 **Tech Stack:** Flutter, FastAPI, PyTorch
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📅 Coding Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 🛠️ Technologies I Work With
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,mongodb,git,github,react,python,flask,vscode" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced ServiceNow Development
-- Product Management
-- AI & Automation
-- Full Stack Development
-- Cloud Technologies
-
----
-
-## 🌐 Connect With Me
-
-<table>
-<tr>
-<td align="center">
-
-<a href="mailto:mmad46052@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/madhava2128">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://madhavaportfolio-seven.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
