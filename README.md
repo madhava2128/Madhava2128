@@ -20,41 +20,45 @@ I enjoy working at the intersection of technology, business, and user experience
 ---
 
 ## 💻 Technical Skills
+## 🛠️ Tech Stack
 
 ### ServiceNow
-- Flow Designer
-- Business Rules
-- Script Includes
-- UI Policies
-- REST APIs
-- ITSM
-- App Engine Studio
-- GlideScript
+<p align="left">
+  <img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white" />
+</p>
 
-### Languages & Technologies
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- SQL
-- MongoDB
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,java" />
+</p>
 
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Postman
-- MS Office
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### Marketing & Analytics
-- SEO
-- Google Analytics
-- Social Media Marketing
-- Branding
-- Geo-Marketing
-- Google Ads
-- Meta Ads
-- Canva
+### Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### Web & Application Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flask,nodejs" />
+</p>
+
+### AI / ML & Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+### Marketing & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
 ---
 
